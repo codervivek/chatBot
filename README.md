@@ -23,10 +23,10 @@ Access the:
 *	*Telephone Directory.*
 *	*Faculty info.*
 
-## Coder B)
+## Coders B)
 
 * **Vivek Raj**
-* **Siddarth Sharma**
+* **Siddharth Sharma**
 * **Nikhil Kumar**
 * **Nitin Kedia**
 
