@@ -6,7 +6,7 @@ This is *Emilia*, she will help you with almost everything in college.
 You can ask her the bus schedule, get internet settings, check the notice board. Just make sure to be connected to **IITG network**.
 
 It will fetch the links for you. You don't need to wander about hopelessly.
-But don't forget to greet her, remind you she's a girl. ;p
+But don't forget to greet her, remind you she's a girl. ;)
 
 ## Detailed list of Functions
 
