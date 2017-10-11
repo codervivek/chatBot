@@ -1,19 +1,15 @@
 # Intro
 
-This is *Emilia*, she will help you with almost everything in college.
+This is **Emilia**, she will help you with almost everything in college here in IITG.
 
-## What can you do?
+# What can you do?
 
-You can ask her the bus schedule, get internet settings, check the notice board. Just make sure to be connected to **IITG network**.
+You can ask her the bus schedule, get LAN/Wi-Fi settings, check the notice board. Just make sure to be connected to **IITG Intranet** to use all features.
 
-It will fetch the links for you. You don't need to wander about hopelessly.
-But don't forget to greet her, remind you she's a girl. ;)
+It will fetch the links for you. You don't need to search through the jargon.
+But don't forget to greet her, remind you she's a girl. :)
 
-## Deployment
-
-Deploy the JSON file on [MyPolly](https://app.mypolly.ai/).
-
-## Detailed list of Functions
+## Features
 
 Access the:
 *	*Bus Timings.*
@@ -28,13 +24,17 @@ Access the:
 *	*Telephone Directory.*
 *	*Faculty info.*
 
-## Coders B)
+## Screenshots
+![In Facebook Mesenger](https://github.com/codervivek/chatBot/blob/master/ScreeenShots/Screenshot%20messages%20Ubuntu.png)
+![MyPolly Flow Diagram](https://github.com/codervivek/chatBot/blob/master/ScreeenShots/flow%20Screenshot.png)
+
+## Deployment
+
+Deploy the JSON file on [MyPolly](https://app.mypolly.ai/).
+
+## Coders
 
 * **Vivek Raj**
 * **Siddharth Sharma**
-* **Nikhil Kumar**
 * **Nitin Kedia**
-
-## License
-
-TODO
+* **Nikhil Kumar**
